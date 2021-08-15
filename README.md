@@ -2,7 +2,7 @@
 
 # Install
 
-This project use [yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable) package.
+Make sure installed [yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable) package.
 `yarn install`
 
 # How to development
